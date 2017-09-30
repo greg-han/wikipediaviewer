@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+$grey: #778899;
+$khaki: #BDB76B;
+
+body{
+ background-color: grey !important;
+ color: black;
+}
+
+.hcolor{
+ color: khaki;
+}
+
+.fat-text{
+ text-align: center;
+ font-weight: 300;
+ font-size: 5em;
+ font-family: Righteous;
+}
+
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc;
+    border-radius: 5x;
+    height: 50px;
+    width: 400px;
+    font-size:30px;
+}
+
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.r0{
+ background-color: white !important;
+}
+.r1{
+ background-color:white !important;
+}
+.r2{
+ background-color: white !important;
+}
+.r3{
+ background-color:white;
+}
+.r4{
+ background-color: white;
+}
+.r5{
+ background-color:white;
+}
+.r6{
+ background-color: white;
+}
+.r7{
+ background-color:white;
+}
+.r8{
+ background-color: white;
+}
+.r9{
+ background-color:white;
+}
