@@ -1,9 +1,8 @@
-# wikipediaviewer
-This Program is a search tool for wikipedia.
---------------------------------------------
-Clicking on "random" will pop up a random wikipedia page.
-Entering a query into the form box and clicking on "Search Wikipeida"
-will display 10 tiles under the search bar.
-Each tile will represent a query made to wikipedia's API, and will display a short description of the page that the hyperlink will lead too, and a hyperlink to the page.
+#Wikipedia Viewer
 
-This line added to check git diff.
+Building something to understand how to make use of an API.
+
+## Features
+
+* Random: Press the random button to pop up a random wikipedia page
+* Search Wikipedia: After filling the form bubbble with your query, clicking on this button or pressing the enter key will display 10 search results from wikipeda in 10 rows with general infromation about the wikipedia page, and a hyperlink to the page itself.
